@@ -1,0 +1,14 @@
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.AssemblyInfoInputs.cache
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.AssemblyInfo.cs
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.csproj.CoreCompileInputs.cache
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\bin\Debug\net8.0\CpfValidator.exe
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\bin\Debug\net8.0\CpfValidator.deps.json
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\bin\Debug\net8.0\CpfValidator.runtimeconfig.json
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\bin\Debug\net8.0\CpfValidator.dll
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\bin\Debug\net8.0\CpfValidator.pdb
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.dll
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\obj\Debug\net8.0\refint\CpfValidator.dll
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.pdb
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\obj\Debug\net8.0\CpfValidator.genruntimeconfig.cache
+C:\Users\Leandro1\Documents\GitHub\c#\CpfValidator\CpfValidator\obj\Debug\net8.0\ref\CpfValidator.dll
