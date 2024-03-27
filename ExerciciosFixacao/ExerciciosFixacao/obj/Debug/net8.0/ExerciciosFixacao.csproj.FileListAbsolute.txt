@@ -1,0 +1,15 @@
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\net8.0\ExerciciosFixacao.exe
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\net8.0\ExerciciosFixacao.deps.json
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\net8.0\ExerciciosFixacao.runtimeconfig.json
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\net8.0\ExerciciosFixacao.dll
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\bin\Debug\net8.0\ExerciciosFixacao.pdb
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.AssemblyInfoInputs.cache
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.AssemblyInfo.cs
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.sourcelink.json
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.dll
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\refint\ExerciciosFixacao.dll
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.pdb
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ExerciciosFixacao.genruntimeconfig.cache
+C:\Users\Leandro1\Documents\GitHub\c#\ExerciciosFixacao\ExerciciosFixacao\obj\Debug\net8.0\ref\ExerciciosFixacao.dll
