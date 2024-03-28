@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Globalization;
+
 namespace AreaTriangulo 
 { 
     class AreaTriangulo
@@ -12,18 +14,18 @@ namespace AreaTriangulo
             y = new Triangulo.Triangulo();
 
             Console.WriteLine("Entre com as medidas do triangulo X: ");
-            x.A = double.Parse(Console.ReadLine());
-            x.B = double.Parse(Console.ReadLine());
-            x.C = double.Parse(Console.ReadLine());
+            x.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("Entre com as medidas do triangulo Y: ");
-            y.A = double.Parse(Console.ReadLine());
-            y.B = double.Parse(Console.ReadLine());
-            y.C = double.Parse(Console.ReadLine());
+            y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double areaX = Area(x.A, x.B, x.C);
+            double areaX = x.Area();
 
-            double areaY = Area(y.A, y.B, y.C);
+            double areaY = y.Area();
 
             Console.WriteLine("Área de X = " + areaX.ToString("F4"));
 
@@ -38,15 +40,6 @@ namespace AreaTriangulo
             {
                 Console.WriteLine("Maior area: Y");
             }
-        }
-
-        static double Area(double A, double B, double C)
-        {
-            double p = (A + B + C) / 2;
-
-            double area = Math.Sqrt(p * (p - A) * (p - B) * (p - C));
-
-            return area;
         }
     }    
 }
