@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Triangulo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F481DC9-04F6-48EE-9F59-BA5408F4C32F}|Triangulo\\Triangulo.csproj|c:\\users\\leandro1\\documents\\github\\c#\\triangulo\\triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F481DC9-04F6-48EE-9F59-BA5408F4C32F}|Triangulo\\Triangulo.csproj|solutionrelative:triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F481DC9-04F6-48EE-9F59-BA5408F4C32F}|Triangulo\\Triangulo.csproj|c:\\users\\leandro1\\documents\\github\\c#\\triangulo\\triangulo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F481DC9-04F6-48EE-9F59-BA5408F4C32F}|Triangulo\\Triangulo.csproj|solutionrelative:triangulo\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F481DC9-04F6-48EE-9F59-BA5408F4C32F}|Triangulo\\Triangulo.csproj|c:\\users\\leandro1\\documents\\github\\c#\\triangulo\\triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F481DC9-04F6-48EE-9F59-BA5408F4C32F}|Triangulo\\Triangulo.csproj|solutionrelative:triangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Triangulo.cs",
               "DocumentMoniker": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Triangulo\\Triangulo\\Triangulo.cs",
               "RelativeDocumentMoniker": "Triangulo\\Triangulo.cs",
@@ -38,17 +38,18 @@
               "RelativeToolTip": "Triangulo\\Triangulo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T17:46:18.694Z"
+              "WhenOpened": "2024-03-27T17:46:18.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Triangulo\\Triangulo\\Program.cs",
               "RelativeDocumentMoniker": "Triangulo\\Program.cs",
               "ToolTip": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Triangulo\\Triangulo\\Program.cs",
               "RelativeToolTip": "Triangulo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T17:02:06.696Z",
               "EditorCaption": ""

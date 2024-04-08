@@ -1,0 +1,15 @@
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\bin\Debug\net8.0\Construtores.exe
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\bin\Debug\net8.0\Construtores.deps.json
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\bin\Debug\net8.0\Construtores.runtimeconfig.json
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\bin\Debug\net8.0\Construtores.dll
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\bin\Debug\net8.0\Construtores.pdb
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\obj\Debug\net8.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\obj\Debug\net8.0\Construtores.AssemblyInfo.cs
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\obj\Debug\net8.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\obj\Debug\net8.0\Construtores.sourcelink.json
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\obj\Debug\net8.0\Construtores.dll
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\obj\Debug\net8.0\refint\Construtores.dll
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\obj\Debug\net8.0\Construtores.pdb
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\obj\Debug\net8.0\Construtores.genruntimeconfig.cache
+C:\Users\Leandro1\Documents\GitHub\c#\Construtores\Construtores\obj\Debug\net8.0\ref\Construtores.dll

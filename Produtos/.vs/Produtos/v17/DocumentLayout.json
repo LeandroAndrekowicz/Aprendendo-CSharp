@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Produtos\\Produtos\\Class1.cs",
-              "RelativeDocumentMoniker": "Produtos\\Class1.cs",
-              "ToolTip": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Produtos\\Produtos\\Class1.cs",
-              "RelativeToolTip": "Produtos\\Class1.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAUwCIAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T11:07:21.416Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -43,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Produtos\\Produtos\\Class1.cs",
+              "RelativeDocumentMoniker": "Produtos\\Class1.cs",
+              "ToolTip": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Produtos\\Produtos\\Class1.cs",
+              "RelativeToolTip": "Produtos\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:07:21.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Produtos\\Produtos\\Program.cs",
               "RelativeDocumentMoniker": "Produtos\\Program.cs",
               "ToolTip": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Produtos\\Produtos\\Program.cs",
               "RelativeToolTip": "Produtos\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAywBoAAABXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T11:06:51.85Z",
               "EditorCaption": ""

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Retangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED20E68-5475-4E12-95E8-5B8754938886}|Retangulo\\Retangulo.csproj|c:\\users\\leandro1\\documents\\github\\c#\\retangulo\\retangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED20E68-5475-4E12-95E8-5B8754938886}|Retangulo\\Retangulo.csproj|solutionrelative:retangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED20E68-5475-4E12-95E8-5B8754938886}|Retangulo\\Retangulo.csproj|c:\\users\\leandro1\\documents\\github\\c#\\retangulo\\retangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED20E68-5475-4E12-95E8-5B8754938886}|Retangulo\\Retangulo.csproj|solutionrelative:retangulo\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED20E68-5475-4E12-95E8-5B8754938886}|Retangulo\\Retangulo.csproj|c:\\users\\leandro1\\documents\\github\\c#\\retangulo\\retangulo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED20E68-5475-4E12-95E8-5B8754938886}|Retangulo\\Retangulo.csproj|solutionrelative:retangulo\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Retangulo\\Retangulo\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Retangulo\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Retangulo\\Retangulo\\Funcionario.cs",
+              "RelativeToolTip": "Retangulo\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:20:15.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Retangulo\\Retangulo\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Retangulo\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Retangulo\\Retangulo\\Retangulo.cs",
+              "RelativeToolTip": "Retangulo\\Retangulo.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:52:04.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Retangulo\\Retangulo\\Program.cs",
+              "RelativeDocumentMoniker": "Retangulo\\Program.cs",
+              "ToolTip": "C:\\Users\\Leandro1\\Documents\\GitHub\\c#\\Retangulo\\Retangulo\\Program.cs",
+              "RelativeToolTip": "Retangulo\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAUwEIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:42:45.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
