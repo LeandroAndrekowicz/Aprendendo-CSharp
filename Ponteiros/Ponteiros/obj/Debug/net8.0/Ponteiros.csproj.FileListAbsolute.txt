@@ -1,0 +1,15 @@
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\bin\Debug\net8.0\Ponteiros.exe
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\bin\Debug\net8.0\Ponteiros.deps.json
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\bin\Debug\net8.0\Ponteiros.runtimeconfig.json
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\bin\Debug\net8.0\Ponteiros.dll
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\bin\Debug\net8.0\Ponteiros.pdb
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\obj\Debug\net8.0\Ponteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\obj\Debug\net8.0\Ponteiros.AssemblyInfoInputs.cache
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\obj\Debug\net8.0\Ponteiros.AssemblyInfo.cs
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\obj\Debug\net8.0\Ponteiros.csproj.CoreCompileInputs.cache
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\obj\Debug\net8.0\Ponteiros.sourcelink.json
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\obj\Debug\net8.0\Ponteiros.dll
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\obj\Debug\net8.0\refint\Ponteiros.dll
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\obj\Debug\net8.0\Ponteiros.pdb
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\obj\Debug\net8.0\Ponteiros.genruntimeconfig.cache
+C:\Users\Leandro1\Documents\GitHub\c#\Ponteiros\Ponteiros\obj\Debug\net8.0\ref\Ponteiros.dll
